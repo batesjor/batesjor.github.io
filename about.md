@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Please Can I Get An Edit Here
+I'm Jordan Bates! I am a local to the San Luis Obispo area, and am studying biochemistry at Cal Poly SLO! 
 
-### More Information
+Outside of chemistry, my interests include drumming, writing, and going on walks.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+I'm a current Noyce Associate in Cal Poly's Noyce Scholars program, and will have a future in chemical education.
