@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Publications
-permalink: /Contact/
+permalink: /contact/
 ---
 
-1. A great publication.
-2. Another great publication.
+My email is jordanbatesemail@gmail.com !
+My instagram (for more personal content) is @jbatesmotel
